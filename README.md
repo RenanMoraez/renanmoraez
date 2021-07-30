@@ -1,8 +1,11 @@
 ### Olá, Eu sou o Renan Moraes👋
 
 
-- 🔭 Hoje trabalho com Front end
-- 🌱 Estudando React...
+- 🔭 Hoje trabalho com Front end jr.
+- 🌱 Estudando React.
+- 🎯 Gosto de Novos Desafios.
+- 📚 Sempre disposto aprender mais !
+
  <div>
   <a href="https://github.com/renanmoraez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmoraez&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
@@ -21,6 +24,5 @@
   <a href="https://instagram.com/renann_moraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:renanmoraesaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-moraes-548298b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
-   ![Snake animation](https://github.com/RenanMoraez/renanmoraez/blob/output/github-contribution-grid-snake.svg)
+  
   </div>

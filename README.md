@@ -12,9 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmoraez&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div style="display: inline_block">
-  <img align="center" alt="RenanM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RenanM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RenanM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="RenanM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="RenanM-TypeScript" height="30" width="30" src="https://user-images.githubusercontent.com/37508509/136643029-16ee6145-a97a-45a8-8e24-d31467ebcc98.png">
 
 </div>

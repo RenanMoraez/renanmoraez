@@ -15,6 +15,8 @@
   <img align="center" alt="RenanM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RenanM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RenanM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="RenanM-TypeScript" height="30" width="40" src="https://user-images.githubusercontent.com/37508509/136642794-8c2fa373-5da1-49c9-b594-b3b38c31a6b5.png">
+
 </div>
   
  ##

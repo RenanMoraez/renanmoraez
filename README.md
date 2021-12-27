@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Renan Moraes👋
 
 
-- 🔭 Hoje trabalho com Front end jr.
+- 🔭 Hoje trabalho com Front-end jr.
 - 🌱 Estudando React.
 - 🎯 Gosto de Novos Desafios.
 - 📚 Sempre disposto aprender mais !

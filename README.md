@@ -1,8 +1,9 @@
 ### Olá, Eu sou o Renan Moraes👋
 
 
-- 🔭 Hoje trabalho com Front-end jr.
-- 🌱 Estudando React.
+- 🔭 Atualmente Trabalhando como Gerente de Redes e Infraestrutura.
+- 🌱 Me aprimorando na cultura DevOps.
+- ❄ Conhecimento em Front-end.
 - 🎯 Gosto de Novos Desafios.
 - 📚 Sempre disposto aprender mais !
 

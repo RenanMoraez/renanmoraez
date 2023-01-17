@@ -17,6 +17,7 @@ ___
 
 ## 💻 Linguagem de Programação e Ferramentas Devops 🛠⚙
 
+<a href="https://www.javascript.com/"><img align="left" alt="javascript" width="40px" style="padding-right:10px;" src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667"/></a>
 <a href="https://www.docker.com/"><img align="left" alt="docker" width="40px" style="padding-right:10px;" src="https://camo.githubusercontent.com/cbd55750b53c01dc18830d377c7364b01077e8a675a79d454a3f1ea549efe129/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667"/></a>
 <a href="https://www.ansible.com/"><img align="left" alt="ansible" width="40px" style="padding-right:10px;" src="https://camo.githubusercontent.com/e61f109d40cf1816f858a895584fa32d5885516d52503aaf5ac5b3648448c712/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e7369626c652f616e7369626c652d6f726967696e616c2e737667"/></a>
 <a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"/></a>

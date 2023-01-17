@@ -38,12 +38,12 @@ ___
 <details open>
   <summary><h3>📊 Estatísticas do GitHub</h3></summary>
    
-  <h3>💻 Estatística de Perfil e 🔥 Streak</h3>
+  <h3>💻 Estatística de Perfil</h3>
   <img alt="RenanMoraez's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=RenanMoraez&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/></a>  
   <img alt="RenanMoraez's Streak Stats" src="https://streak-stats.demolab.com/?user=RenanMoraez&theme=tokyonight&hide_border=true" height="165px"/></a>
   <br/>
   
-  <h3>💪 Gráfico de Contribuição (Últimos 30d)</h3>
+  <h3>💪 Gráfico de Contribuição (Últimos 30dias)</h3>
   <img alt="renanmoraez's Activity Stats" src="https://github-readme-activity-graph.cyclic.app/graph/?username=RenanMoraez&theme=tokyo-night&hide_border=true"/></a>
   <br/>
   

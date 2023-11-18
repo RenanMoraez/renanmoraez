@@ -1,8 +1,5 @@
-# Olá, Eu sou o Renan Moraes
+# Olá, Eu sou o Renan Araújo / Hello, I'm Renan Araújo
 
-<p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=1000&color=FF3A3A&width=435&lines=Engenheiro+Devops;Apaixonado+por+Cloud+Computing;Uma+vida+de+aprendizado" alt="Typing SVG" /></a>
-</p>
 
  Vivo em constante aprendizado, buscando sempre o aperfeiçoamento de novas tecnologias do mercado para solucionar problemas, é o que me motiva para o meu desenvolvimento pessoal e profissional. Contribuir com a comunidade é importante para as pessoas que estão iniciando agora no mundo da tecnologias e para aqueles que já vem com a experiência na bagagem. A importância do trabalho em equipe é a chave para o sucesso que envolve as pessoas para o crescimento, é isso que me faz querer buscar conhecimento todos os dias.
 <div>

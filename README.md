@@ -1,7 +1,8 @@
 # Olá, Eu sou o Renan Araújo / Hello, I'm Renan Araújo
 
-
- Vivo em constante aprendizado, buscando sempre o aperfeiçoamento de novas tecnologias do mercado para solucionar problemas, é o que me motiva para o meu desenvolvimento pessoal e profissional. Contribuir com a comunidade é importante para as pessoas que estão iniciando agora no mundo da tecnologias e para aqueles que já vem com a experiência na bagagem. A importância do trabalho em equipe é a chave para o sucesso que envolve as pessoas para o crescimento, é isso que me faz querer buscar conhecimento todos os dias.
+ Atualmente sou analista de middleware na TIVIT onde faço parte de um time incrivel que tem como objetivo sustentar aplicações web(Apache, Nginx, Tomcat) e servidores WS (Windows Server) de clientes da america latina. Minha formação é em Redes e Computadores e Pós-Graduado em Engenharia Devops onde me encontrei e buscar conhecimento diariamente para chegar no meu objetivo em ser um especialista em devops, então trabalho e estudo diariamente para alcançar esse meu objetivo e eu serei um Especializa em Devops ❤⚙
+ 
+.
 <div>
   <a href = "mailto:renanmoraesaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-moraes-548298b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -1,4 +1,4 @@
-# Olá, Eu sou o Renan Araújo / Hello, I'm Renan Araújo
+# Olá, Eu sou o Renan Moraes / Hello, I'm Renan Moraes
 
  Atualmente sou analista de middleware na TIVIT onde faço parte de um time incrivel que tem como objetivo sustentar aplicações web(Apache, Nginx, Tomcat) e servidores WS (Windows Server) de clientes da america latina. Minha formação é em Redes e Computadores e Pós-Graduado em Engenharia Devops onde me encontrei e buscar conhecimento diariamente para chegar no meu objetivo em ser um especialista em devops, então trabalho e estudo diariamente para alcançar esse meu objetivo e eu serei um Especializa em Devops ❤⚙
 

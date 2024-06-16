@@ -30,10 +30,6 @@ ___
   <img alt="RenanMoraez's Streak Stats" src="https://streak-stats.demolab.com/?user=RenanMoraez&theme=tokyonight&hide_border=true" height="165px"/></a>
   <br/>
   
-  <h3>💪 Gráfico de Contribuição (Últimos 30dias)</h3>
-  <img alt="renanmoraez's Activity Stats" src="https://github-readme-activity-graph.cyclic.app/graph/?username=RenanMoraez&theme=tokyo-night&hide_border=true"/></a>
-  <br/>
-  
   <h3>🦾 Gráfico de Contribuição (Último ano)</h3>
   <img alt="RenanMoraez's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenanMoraez&theme=tokyonight&hide_border=true"/></a>
   <br>
